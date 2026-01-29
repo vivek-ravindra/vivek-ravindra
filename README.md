@@ -2,7 +2,7 @@
 
 # Hello World! I'm Vivek 👋👨‍💻
 
-Senior Software Engineer III - CX Product & Platform Engineering with 7+ years of experience building scalable, cloud-native web platforms using React, Node.js, and AWS. Engineering IC with strong ownership of frontend systems, real-time architectures, and cross-team delivery in fully remote environments. Known for clean architecture, performance optimization, async collaboration, and mentoring engineers with a high degree of autonomy and accountability. Seeking remote-first roles that value autonomy, impact, and engineering excellence.
+Senior Software Engineer III - CX Product & Platform Engineering with 7+ years of experience building scalable, cloud-native web platforms using React, Node.js, and AWS. Engineering IC with strong ownership of frontend systems, real-time architectures, and cross-team delivery in fully remote environments. Known for clean architecture, performance optimization, async collaboration, and mentoring engineers with a high degree of autonomy and accountability. Seeking roles that value autonomy, impact, and engineering excellence.
 
 - 💬 Ask me about Javascript, React, Node, Express & MongoDB (NoSQL).
 - 📫 Mail me: hello@vivekravindra.dev
