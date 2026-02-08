@@ -17,7 +17,7 @@ Senior Full Stack Software Engineer with 7+ years of experience building scalabl
 | **Backend & Frameworks** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="32"/> <br/> RESTful APIs, WebSockets / Real-Time Streaming |
 | **Architecture & Design** | <img src="https://skillicons.dev/icons?i=kubernetes,redis" height="32"/> <br/> Microservices Architecture, Event-Driven Systems, Domain-Driven Design (DDD), Service Orchestration, Fault-Tolerant Systems |
 | **APIs & Security** | <img src="https://skillicons.dev/icons?i=swagger,oauth" height="32"/> <br/> OpenAPI / Swagger, OAuth2, OIDC, Authentication & Authorization |
-| **Databases & Data Stores** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" height="32"/> |
+| **Databases & Data Stores** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" height="32"/> <br /> MongoDB, PostgreSQL, MySQL, Redis |
 | **Cloud & Infrastructure** | <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform" height="32"/> <br/> AWS Lambda, ECS, EKS, API Gateway, S3 |
 | **DevOps & CI/CD** | <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab" height="32"/> <br/> CI/CD Pipelines |
 | **Observability & Monitoring** | <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" height="32"/> <br/> Cloud Monitoring & Observability, Centralized Logging (ELK) |
