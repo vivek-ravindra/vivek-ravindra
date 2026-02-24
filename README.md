@@ -2,7 +2,11 @@
 
 # Hello World! I'm Vivek 👋👨‍💻
 
-Senior Full Stack Software Engineer with 7+ years of experience building scalable, cloud-native web platforms using React, Node.js, and AWS. Lead IC with strong ownership of frontend systems, real-time architectures, and cross-team delivery in fully remote environments. Known for clean architecture, performance optimization, async collaboration, and mentoring engineers with a high degree of autonomy and accountability. Seeking roles that value autonomy, impact, and engineering excellence.
+I am a Senior Full-Stack Engineer with 7+ years of experience designing and building scalable, distributed systems for enterprise SaaS, healthcare, insurance, analytics, and fintech platforms. Currently, I am working on a cloud-native AI-driven customer experience platform serving global enterprise users, where I focus on real-time streaming systems, high-availability microservices, and optimizing production-grade performance.
+
+My core technical stack includes JavaScript, TypeScript, Node.js, Express.js, NestJS, and React.js, with strong expertise in microservices architecture, event-driven systems, REST APIs, WebSockets, and GraphQL. I work extensively with AWS (Lambda, ECS, EKS, API Gateway, S3), Kubernetes, Terraform, Docker, MongoDB, PostgreSQL, and Redis. I follow Clean Architecture and Domain-Driven Design principles, leveraging AI-assisted development tools to enhance delivery speed and code quality.
+
+I have successfully delivered high-quality systems across cross-functional and distributed teams, consistently meeting deadlines and improving reliability, performance, and scalability. Known for reducing incidents, optimizing MTTR, and driving measurable impact, I am a quick learner looking forward to taking on new technical challenges in scalable and distributed system environments.
 
 - 💬 Ask me about JavaScript, React, Node, Express & MongoDB (NoSQL).
 - 📫 Mail me: hello@vivekravindra.dev
