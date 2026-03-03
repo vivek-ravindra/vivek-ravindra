@@ -13,20 +13,30 @@ I have successfully delivered high-quality systems across cross-functional and d
 - 😄 Pronouns: He / Him
 - 🐣 Fun fact: I am trying to understand whether the egg has arrived first or the hen!
 
-## Technology Exposure:
+## 🛠 Tech Stack
+
+![JS](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)
+![TS](https://img.shields.io/badge/TypeScript-Next-blue?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-16-green?style=flat-square&logo=node.js)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Cloud-blue?style=flat-square&logo=kubernetes)
+
+## 🚀 Technology Exposure:
 
 | Category | Skills |
-|---------|--------|
-| **Programming Languages** | <img src="https://skillicons.dev/icons?i=js,ts" height="32"/> <br/> JavaScript (ES6+), TypeScript, SQL |
-| **Backend & Frameworks** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="32"/> <br/> RESTful APIs, WebSockets / Real-Time Streaming |
-| **Architecture & Design** | <img src="https://skillicons.dev/icons?i=kubernetes,redis" height="32"/> <br/> Microservices Architecture, Event-Driven Systems, Domain-Driven Design (DDD), Service Orchestration, Fault-Tolerant Systems |
-| **APIs & Security** | <img src="https://skillicons.dev/icons?i=swagger,oauth" height="32"/> <br/> OpenAPI / Swagger, OAuth2, OIDC, Authentication & Authorization |
-| **Databases & Data Stores** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" height="32"/> <br /> MongoDB, PostgreSQL, MySQL, Redis |
-| **Cloud & Infrastructure** | <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform" height="32"/> <br/> AWS Lambda, ECS, EKS, API Gateway, S3 |
-| **DevOps & CI/CD** | <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab" height="32"/> <br/> CI/CD Pipelines |
-| **Observability & Monitoring** | <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" height="32"/> <br/> Cloud Monitoring & Observability, Centralized Logging (ELK) |
-| **Version Control & Collaboration** | <img src="https://skillicons.dev/icons?i=git,github,gitlab" height="32"/> <br/> Agile / Scrum |
-| **Testing & Quality** | <img src="https://skillicons.dev/icons?i=jest,postman" height="32"/> <br/> API Testing |
+|----------|--------|
+| 🧠 **Programming Languages** | <img src="https://skillicons.dev/icons?i=js" height="20"/> JavaScript (ES6+) <br/> <img src="https://skillicons.dev/icons?i=ts" height="20"/> TypeScript <br/> <img src="https://skillicons.dev/icons?i=mysql" height="20"/> SQL <br/> |
+| 🏗️ **Architecture & System Design** | <img src="https://skillicons.dev/icons?i=kubernetes" height="20"/> Microservices <br/> <img src="https://skillicons.dev/icons?i=redis" height="20"/> Event-Driven Architecture <br/> <img src="https://skillicons.dev/icons?i=docker" height="20"/> Distributed Systems <br/> Domain-Driven Design (DDD) <br/> Fault-Tolerant Systems <br/> High Availability <br/> Service Orchestration <br/> |
+| ⚙️ **Backend Development** | <img src="https://skillicons.dev/icons?i=nodejs" height="20"/> Node.js <br/> <img src="https://skillicons.dev/icons?i=express" height="20"/> Express.js <br/> <img src="https://skillicons.dev/icons?i=nestjs" height="20"/> NestJS <br/> RESTful APIs <br/> WebSockets / Real-Time Systems <br/> <img src="https://skillicons.dev/icons?i=swagger" height="20"/> OpenAPI (Swagger) <br/> |
+| ☁️ **Cloud & Infrastructure** | <img src="https://skillicons.dev/icons?i=aws" height="20"/> AWS (Lambda, ECS, EKS, API Gateway, S3) <br/> <img src="https://skillicons.dev/icons?i=azure" height="20"/> Microsoft Azure <br/> <img src="https://skillicons.dev/icons?i=kubernetes" height="20"/> Kubernetes <br/> <img src="https://skillicons.dev/icons?i=docker" height="20"/> Docker <br/> <img src="https://skillicons.dev/icons?i=terraform" height="20"/> Terraform (IaC) <br/> |
+| 🗄️ **Databases & Caching** | <img src="https://skillicons.dev/icons?i=postgres" height="20"/> PostgreSQL <br/> <img src="https://skillicons.dev/icons?i=mongodb" height="20"/> MongoDB <br/> <img src="https://skillicons.dev/icons?i=mysql" height="20"/> MySQL <br/> <img src="https://skillicons.dev/icons?i=redis" height="20"/> Redis <br/> |
+| 🔄 **DevOps & CI/CD** | <img src="https://skillicons.dev/icons?i=githubactions" height="20"/> GitHub Actions <br/> <img src="https://skillicons.dev/icons?i=gitlab" height="20"/> GitLab CI <br/> <img src="https://skillicons.dev/icons?i=jenkins" height="20"/> Jenkins <br/> <img src="https://skillicons.dev/icons?i=argo" height="20"/> ArgoCD <br/> |
+| 🎨 **Frontend Development** | <img src="https://skillicons.dev/icons?i=react" height="20"/> React <br/> <img src="https://skillicons.dev/icons?i=redux" height="20"/> Redux & Redux Toolkit <br/> <img src="https://skillicons.dev/icons?i=html" height="20"/> HTML5 <br/> <img src="https://skillicons.dev/icons?i=css" height="20"/> CSS3 <br/> SCSS <br/> <img src="https://skillicons.dev/icons?i=tailwind" height="20"/> Tailwind CSS <br/> <img src="https://skillicons.dev/icons?i=materialui" height="20"/> Material UI <br/> Styled Components <br/> <img src="https://skillicons.dev/icons?i=storybook" height="20"/> Storybook <br/> |
+| 📊 **Observability & Reliability** | <img src="https://skillicons.dev/icons?i=prometheus" height="20"/> Prometheus <br/> <img src="https://skillicons.dev/icons?i=grafana" height="20"/> Grafana <br/> <img src="https://skillicons.dev/icons?i=elasticsearch" height="20"/> ELK Stack <br/> Cloud Monitoring & Alerting <br/> |
+| 🔐 **Security** | <img src="https://skillicons.dev/icons?i=oauth" height="20"/> OAuth2 <br/> OIDC <br/> Authentication & Authorization <br/> API Security Best Practices <br/> |
+| 🧪 **Testing & Quality** | <img src="https://skillicons.dev/icons?i=jest" height="20"/> Jest <br/> <img src="https://skillicons.dev/icons?i=postman" height="20"/> API Testing <br/> Test-Driven Development (TDD) <br/> |
+| 🤝 **Tools & Collaboration** | <img src="https://skillicons.dev/icons?i=git" height="20"/> Git <br/> <img src="https://skillicons.dev/icons?i=github" height="20"/> GitHub <br/> <img src="https://skillicons.dev/icons?i=gitlab" height="20"/> GitLab <br/> <img src="https://skillicons.dev/icons?i=bitbucket" height="20"/> Bitbucket <br/> <img src="https://skillicons.dev/icons?i=jira" height="20"/> Jira <br/> Confluence <br/> |
+| 📌 **Methodologies** | Agile / Scrum <br/> SAFe <br/> Sprint Planning <br/> Backlog Refinement <br/> Retrospectives <br/> |
 
 #### AI & Machine Learning
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
