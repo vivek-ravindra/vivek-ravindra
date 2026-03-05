@@ -15,7 +15,6 @@ I have successfully delivered high-quality systems across cross-functional and d
 
 ## 🛠 Tech Stack
 
-![JS](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)
 ![TS](https://img.shields.io/badge/TypeScript-Next-blue?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-16-green?style=flat-square&logo=node.js)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws)
