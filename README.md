@@ -19,10 +19,19 @@ I enjoy leading technical initiatives, mentoring engineers, driving architectura
 
 ## 🛠 Tech Stack
 
+### Primary Stack (JavaScript - MERN)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=flat-square&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/Express.js-Backend-black?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js)
+
+### Secondary Stack (Python)
+
+![Python](https://img.shields.io/badge/Python-Language-blue?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/Django-Backend-green?style=flat-square&logo=django)
+![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-green?style=flat-square&logo=vuedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square&logo=postgresql)
 
 ## 🚀 Technology Exposure:
 
