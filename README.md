@@ -19,10 +19,10 @@ I enjoy leading technical initiatives, mentoring engineers, driving architectura
 
 ## 🛠 Tech Stack
 
-![TS](https://img.shields.io/badge/TypeScript-Next-blue?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-16-green?style=flat-square&logo=node.js)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Cloud-blue?style=flat-square&logo=kubernetes)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=flat-square&logo=mongodb)
+![Express.js](https://img.shields.io/badge/Express.js-Backend-black?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js)
 
 ## 🚀 Technology Exposure:
 
