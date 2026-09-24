@@ -2,11 +2,15 @@
 
 # Hello World! I'm Vivek 👋👨‍💻
 
-I am a Senior Full-Stack Engineer with 7+ years of experience designing and building scalable, distributed systems for enterprise SaaS, healthcare, insurance, analytics, and fintech platforms. Currently, I am working on a cloud-native AI-driven customer experience platform serving global enterprise users, where I focus on real-time streaming systems, high-availability microservices, and optimizing production-grade performance.
-
-My core technical stack includes JavaScript, TypeScript, Node.js, Express.js, NestJS, and React.js, with strong expertise in microservices architecture, event-driven systems, REST APIs, WebSockets, and GraphQL. I work extensively with AWS (Lambda, ECS, EKS, API Gateway, S3), Kubernetes, Terraform, Docker, MongoDB, PostgreSQL, and Redis. I follow Clean Architecture and Domain-Driven Design principles, leveraging AI-assisted development tools to enhance delivery speed and code quality.
-
-I have successfully delivered high-quality systems across cross-functional and distributed teams, consistently meeting deadlines and improving reliability, performance, and scalability. Known for reducing incidents, optimizing MTTR, and driving measurable impact, I am a quick learner looking forward to taking on new technical challenges in scalable and distributed system environments.
+I’m a Senior Full Stack & Cloud Engineer with experience designing and building scalable, cloud-native SaaS platforms, distributed systems, and AI-powered applications. I specialize in Node.js, React, AWS, Kubernetes, and modern cloud architectures, with a strong focus on building reliable, high-performance systems that scale.
+ 
+Throughout my career, I’ve designed and delivered microservices-based platforms supporting 50K+ concurrent users with high availability (99.9% uptime), reduced application latency by up to 40%, and significantly improved operational reliability through observability, automation, and resilient architecture patterns. My work has also contributed to reducing MTTR by 60% through proactive monitoring, incident response improvements, and production-grade engineering practices.
+ 
+Beyond application development, I enjoy solving complex infrastructure and platform challenges. My experience spans cloud architecture, Kubernetes, Docker, CI/CD, Infrastructure as Code, authentication and authorization (OAuth, OIDC, JWT, SSO, RBAC), API design, event-driven systems, caching, messaging, and performance optimization.
+ 
+More recently, I’ve been working with Generative AI and OpenAI integrations, building AI-powered enterprise solutions that improved user engagement by over 20%. I’m particularly interested in the intersection of AI, distributed systems, and cloud engineering, and how these technologies can transform enterprise software.
+ 
+I enjoy leading technical initiatives, mentoring engineers, driving architectural decisions, and collaborating across teams to deliver scalable solutions that create measurable business value.
 
 - 💬 Ask me about JavaScript, React, Node, Express & MongoDB (NoSQL).
 - 📫 Mail me: hello@vivekravindra.dev
