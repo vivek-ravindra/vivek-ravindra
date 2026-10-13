@@ -26,12 +26,12 @@ I enjoy leading technical initiatives, mentoring engineers, driving architectura
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js)
 
-### Secondary Stack (Python)
+### Python Stack (FastAPI)
 
 ![Python](https://img.shields.io/badge/Python-Language-blue?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/Django-Backend-green?style=flat-square&logo=django)
-![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-green?style=flat-square&logo=vuedotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square&logo=postgresql)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Event%20Streaming-black?style=flat-square&logo=apachekafka)
 
 ## 🚀 Technology Exposure:
 
