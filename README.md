@@ -17,21 +17,48 @@ I enjoy leading technical initiatives, mentoring engineers, driving architectura
 - 😄 Pronouns: He / Him
 - 🐣 Fun fact: I am trying to understand whether the egg has arrived first or the hen!
 
-## 🛠 Tech Stack
+## 🛠 Technology Stack
 
-### Primary Stack (JavaScript - MERN)
+### Primary Stack (MERN)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=flat-square&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/Express.js-Backend-black?style=flat-square&logo=express)
-![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square&logo=react)
+![React.js](https://img.shields.io/badge/React.js-Frontend-blue?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js)
 
-### Python Stack (FastAPI)
+### Backend & Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-Language-blue?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square&logo=postgresql)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Event%20Streaming-black?style=flat-square&logo=apachekafka)
+![Java](https://img.shields.io/badge/Java-Language-orange?style=flat-square&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=flat-square&logo=springboot)
+
+### Databases & Caching
+
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL_Database-green?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational_Database-blue?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-Caching-red?style=flat-square&logo=redis)
+
+### Messaging & Distributed Systems
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Event_Streaming-black?style=flat-square&logo=apachekafka)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-Architecture-blue?style=flat-square)
+
+### DevOps & Cloud Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Container_Orchestration-326CE5?style=flat-square&logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-orange?style=flat-square&logo=githubactions)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Management-lightgrey?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Infrastructure-FF9900?style=flat-square&logo=amazonaws)
+
+### Observability & Monitoring
+
+![Observability](https://img.shields.io/badge/Observability-Monitoring-purple?style=flat-square)
+![Monitoring](https://img.shields.io/badge/Monitoring-System_Health-blue?style=flat-square)
+![Logging](https://img.shields.io/badge/Logging-Centralized_Logs-orange?style=flat-square)
+![Tracing](https://img.shields.io/badge/Distributed_Tracing-Performance_Insights-green?style=flat-square)
 
 ## 🚀 Technology Exposure:
 
