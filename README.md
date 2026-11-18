@@ -64,7 +64,7 @@ I enjoy leading technical initiatives, mentoring engineers, driving architectura
 
 | Category | Skills |
 |----------|--------|
-| 🧠 **Programming Languages** | <img src="https://skillicons.dev/icons?i=js" height="20" alt="JavaScript"/> JavaScript (ES6+) <br/> <img src="https://skillicons.dev/icons?i=ts" height="20" alt="TypeScript"/> TypeScript <br/> <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="MySQL"/> SQL <br/> |
+| 🧠 **Programming Languages** | <img src="https://skillicons.dev/icons?i=js" height="20" alt="JavaScript"/> JavaScript (ES6+) <br/> <img src="https://skillicons.dev/icons?i=ts" height="20" alt="TypeScript"/> TypeScript <br/> <img src="https://skillicons.dev/icons?i=python" height="20" alt="Python"/> Python <br/> <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="SQL"/> SQL <br/> |
 | 🏗️ **Architecture & System Design** | <img src="https://skillicons.dev/icons?i=kubernetes" height="20" alt="Kubernetes"/> Microservices <br/> <img src="https://skillicons.dev/icons?i=redis" height="20" alt="Redis"/> Event-Driven Architecture <br/> <img src="https://skillicons.dev/icons?i=docker" height="20" alt="Docker"/> Distributed Systems <br/> <img src="https://skillicons.dev/icons?i=java" height="20" alt="Java"/> Domain-Driven Design (DDD) <br/> <img src="https://skillicons.dev/icons?i=go" height="20" alt="Go"/> Fault-Tolerant Systems <br/> <img src="https://skillicons.dev/icons?i=aws" height="20" alt="AWS"/> High Availability <br/> <img src="https://skillicons.dev/icons?i=terraform" height="20" alt="Terraform"/> Service Orchestration <br/> |
 | ⚙️ **Backend Development** | <img src="https://skillicons.dev/icons?i=nodejs" height="20" alt="Node.js"/> Node.js <br/> <img src="https://skillicons.dev/icons?i=express" height="20" alt="Express.js"/> Express.js <br/> <img src="https://skillicons.dev/icons?i=fastapi" height="20" alt="FastAPI"/> RESTful APIs <br/> <img src="https://skillicons.dev/icons?i=postman" height="20" alt="Postman"/> OpenAPI (Swagger) <br/> <img src="https://skillicons.dev/icons?i=nodejs" height="20" alt="Node.js"/> WebSockets / Real-Time Systems <br/> |
 | ☁️ **Cloud & Infrastructure** | <img src="https://skillicons.dev/icons?i=aws" height="20" alt="AWS"/> AWS (Lambda, ECS, EKS, API Gateway, S3) <br/> <img src="https://skillicons.dev/icons?i=azure" height="20" alt="Azure"/> Microsoft Azure <br/> <img src="https://skillicons.dev/icons?i=kubernetes" height="20" alt="Kubernetes"/> Kubernetes <br/> <img src="https://skillicons.dev/icons?i=docker" height="20" alt="Docker"/> Docker <br/> <img src="https://skillicons.dev/icons?i=terraform" height="20" alt="Terraform"/> Terraform (IaC) <br/> |
@@ -80,26 +80,5 @@ I enjoy leading technical initiatives, mentoring engineers, driving architectura
 
 #### AI & Machine Learning
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
-#### Blogging Platforms
- ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-#### Cloud Services & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
-#### Design Tools
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
-
-#### Programming & Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-#### Communication Tools
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
-#### Social Media & Portfolios
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
 
 :neckbeard: :bowtie: :octocat:
